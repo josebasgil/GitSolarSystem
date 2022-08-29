@@ -19,13 +19,12 @@ public class Main {
         omaro.radius=1234455;
         omaro.color="pink";
 
-     // adding plante 2
+    // adding planet 2
 
-        Planet2 superplanet2=new Planet2();
-        superplanet2.color="White";
-        superplanet2.name="Nibiru";
-        superplanet2.size="10000000Km";
-        
+        Planet2 superwomen=new Planet2();
+        superwomen.size="766585857km";
+        superwomen.name="pliea";
+        superwomen.color="green";
     }
 
 
