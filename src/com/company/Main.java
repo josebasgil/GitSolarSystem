@@ -12,12 +12,20 @@ public class Main {
         System.out.println("the basic structure is ready ");
 
 
-//    developing the feature SUN
+    // developing the feature SUN
         SUN omaro=new SUN();
         omaro.temperature="12334433kj";
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+    //  developing planet 1
+        Planet1 superPlanet=new Planet1();
+        superPlanet.color="magenta";
+        superPlanet.name="hash";
+        superPlanet.size="545488km";
+
+
     }
 
 
